@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/nold/Nextcloud/CAD/KiCAD/LibreHDMI/LibreHDMI.kicad_sch</source>
+    <date>Fri 27 Oct 2023 06:29:15 AM CEST</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LibreHDMI.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>47nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>399ef30b-ea82-4927-bbbe-3408e7f899a7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0bdfd4f-669e-4a21-ac12-ab8da3ad8596</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbacbd20-8ca6-48fd-a41f-53344952c6f7</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d18af32-a24c-4bf8-b28f-e493fc374160</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d501e0cf-c6fc-4afc-afe3-aa54e2f7e308</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d0481a5-fa80-42a6-bc90-e781d7fb33ab</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaf3862b-0f35-4317-85a1-ed41eaf39df0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef581d92-bb5f-43cd-b106-484f15bf6c4e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a542e196-b5d6-4f80-bca0-8b3e265a36c8</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>776520d6-9b3c-4758-87d0-69b7bfb347db</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f598906-dea9-4c01-8fe9-78c5368822ba</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b2cfacb-fd4e-4b52-8295-2e6e4d907528</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e1b8d38-2516-4279-a405-a81a509991ba</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aae77ca2-d423-41ae-b507-3a385fe2eb09</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41843594-1685-42ea-92e0-9fc0f5e7d0fe</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0add4282-0ed0-454a-80c3-78bb2874b916</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6ccd112-c441-4bc5-946d-480eb79c591f</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d047f24f-570b-4bb6-a481-c05db6a0a778</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf27e539-8d4a-4286-adc4-c645d0fbc3a3</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65967de7-62c8-48b5-973b-949f78601da1</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>707f133c-5be3-43be-99e6-48b2381956b6</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31ad2bcd-9900-4a06-96cb-5a048300089e</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2527b45-7e36-40dd-ad3a-4ccdf853f3e9</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd5b01d-dc99-4609-8121-8f0338141b29</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08994c9d-116a-43c2-af87-b75ae9bcf169</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>717a795a-a77c-42b5-9b5d-b305a50677a3</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fcf2eb1-0b45-4253-994f-2d558b060769</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce6e86ce-8d5c-49b7-9d0e-3a8ec28ce71e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0201_0603Metric</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ff7f19b-be23-47ac-b99d-bbd8215ffa3b</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0611db75-02de-45c5-8297-effc7d158b5d</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ec7dfbc-9dc4-4709-b530-a5fe1d403713</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81553033-bb7c-458b-af6a-ec1e5a9d2e51</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9349738d-3574-4aae-9e43-0b9697496192</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e54cf2ea-0294-4046-9dfb-e70104df4317</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f92531ca-d72a-4051-92d2-5b411512bd4c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SS-53000-001</value>
+      <footprint>symbols-footprints:STEWART_SS-53000-001</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=eda</field>
+        <field name="Description">
+HDMI Connector | Right Angle | Without Flange | -20C to 85C
+</field>
+        <field name="MANUFACTURER">BelFuse</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="MF">Stewart Connector</field>
+        <field name="MP">SS-53000-001</field>
+        <field name="PARTREV">A0</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4628816&amp;manufacturer=Stewart Connector&amp;part_name=SS-53000-001&amp;search_term=hdmi connector</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="SS-53000-001" part="SS-53000-001" description=""/>
+      <property name="MF" value="Stewart Connector"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="A0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=snap"/>
+      <property name="MP" value="SS-53000-001"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4628816&amp;manufacturer=Stewart Connector&amp;part_name=SS-53000-001&amp;search_term=hdmi connector"/>
+      <property name="Description" value="&#xA;HDMI Connector | Right Angle | Without Flange | -20C to 85C&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="BelFuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ed27646-a0f3-418b-ba97-d8bedc8fcf7f</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>?</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f82539dc-24ed-436a-8be1-834bd1f92cc0</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>MC</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 3-pole, open"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43d4e183-c844-4420-a538-6bbcbe266c6e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa95176-e994-4535-a5d2-3aa3a30298d6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6b6e953-386d-4590-99cd-80d332437c61</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c762c9d-b42f-4ccd-a7e4-521cc0d2727d</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d192fe2a-8a23-4670-a447-63387f276c18</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>513b1901-61fb-41ff-a0df-631cfde462e0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ad56e6e-54b2-4c28-b72f-49a98149f84b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec70685e-75b8-4910-a2a4-868c39f045ac</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ecb0376-b505-4e93-8273-ddb21c000143</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01506a2e-cb4c-4c73-809c-c5e7733ec549</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>432753c4-7aeb-478e-8c0c-9a1545aa736c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8e9d547-e775-4d39-aa00-c0022020850e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d978bbec-3d4a-4444-a617-aece1c6ed5aa</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56d119b2-0321-4df9-aced-37738654289d</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>404fa2f9-32ec-46b7-8d02-a781a4276faa</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f34be74d-f25a-451e-8307-eec0c10c5efd</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe0bde26-47f7-4c86-8c68-c95ea7c98bc7</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>AL</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>118e56ba-e6d8-482c-a76e-fd430db1662b</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>AR</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f024f6c7-5aa7-4093-930d-105578c57b05</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>H</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a659e6b2-8d5f-47e4-9236-0c219b50a105</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>V</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b6a39f1-c8b8-4cd7-b900-f9947c13c592</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>B</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a305219-f028-4b77-970a-5ae1ea8d5697</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>G</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>490fb8f1-b9a8-4db0-945d-ee33bc29073e</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>R</value>
+      <footprint>symbols-footprints:CasPowerPad 1x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d7009e8-bbc6-498d-9e40-82f6141e1398</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>5V</value>
+      <footprint>symbols-footprints:CasPowerPad 2x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce3c0c20-befd-4671-860d-9e2a153b061c</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>GND</value>
+      <footprint>symbols-footprints:CasPowerPad 2x1</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0828530f-2901-4b6a-b453-c01e937f7332</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias</footprint>
+      <libsource lib="nold_custom" part="MS9288A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85d43e15-12ff-4398-928f-10a8d9ae07a6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TPS78415QWDRBRQ1</value>
+      <footprint>pretty_kicad_mods:DRB0008J-IPC_A</footprint>
+      <datasheet>TPS78415QWDRBRQ1</datasheet>
+      <libsource lib="2023-10-12_06-22-57" part="TPS78415QWDRBRQ1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_keywords" value="TPS78415QWDRBRQ1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>246b77fa-6830-4084-ba9e-555923199b9e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPS78433QDBVRQ1</value>
+      <footprint>pretty_kicad_mods:DRB0008J-IPC_A</footprint>
+      <datasheet>TPS78433QDBVRQ1</datasheet>
+      <libsource lib="2023-10-12_06-22-57" part="TPS78415QWDRBRQ1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_keywords" value="TPS78415QWDRBRQ1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37a363f5-c30f-42f9-800d-95cc6eacad1d</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LibreHDMI.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e8b6155-eb94-4bdd-be1c-2c4fbb75d7fd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2023-10-12_06-22-57" part="TPS78415QWDRBRQ1">
+      <docs>TPS78415QWDRBRQ1</docs>
+      <footprints>
+        <fp>DRB0008J-IPC_A</fp>
+        <fp>DRB0008J-IPC_B</fp>
+        <fp>DRB0008J-IPC_C</fp>
+        <fp>DRB0008J-MFG</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS78415QWDRBRQ1</field>
+        <field name="Footprint">DRB0008J-IPC_A</field>
+        <field name="Datasheet">TPS78415QWDRBRQ1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="NC" type="unspecified"/>
+        <pin num="3" name="NC" type="unspecified"/>
+        <pin num="4" name="NC" type="unspecified"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="unspecified"/>
+        <pin num="7" name="EN" type="input"/>
+        <pin num="8" name="IN" type="power_in"/>
+        <pin num="9" name="Thermal_Pad" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="SS-53000-001" part="SS-53000-001">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SS-53000-001</field>
+        <field name="Footprint">SS-53000-001:STEWART_SS-53000-001</field>
+        <field name="MF">Stewart Connector</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SS-53000-001/Stewart+Connector/view-part/?ref=snap</field>
+        <field name="MP">SS-53000-001</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4628816&amp;manufacturer=Stewart Connector&amp;part_name=SS-53000-001&amp;search_term=hdmi connector</field>
+        <field name="Description">
+HDMI Connector | Right Angle | Without Flange | -20C to 85C
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">BelFuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="nold_custom" part="MS9288A">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AVDD18_ADC" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="??" type="input"/>
+        <pin num="4" name="MCUSEL" type="input"/>
+        <pin num="5" name="DVDD33" type="input"/>
+        <pin num="6" name="GND" type="input"/>
+        <pin num="7" name="AVDD18" type="input"/>
+        <pin num="8" name="HotPlugDetect" type="input"/>
+        <pin num="9" name="DDCSDA" type="input"/>
+        <pin num="10" name="DCCSCL" type="input"/>
+        <pin num="11" name="DVDD33" type="input"/>
+        <pin num="12" name="AVDD33" type="input"/>
+        <pin num="13" name="SWREF1k" type="input"/>
+        <pin num="14" name="TMDS_CLK-" type="output"/>
+        <pin num="15" name="TMDS_CLK+" type="output"/>
+        <pin num="16" name="AVDD18" type="input"/>
+        <pin num="17" name="TMDS_D0-" type="output"/>
+        <pin num="18" name="TMDS-D0+" type="output"/>
+        <pin num="19" name="TMDS_D1-" type="output"/>
+        <pin num="20" name="TMDS_D1+" type="output"/>
+        <pin num="21" name="AVDD18" type="input"/>
+        <pin num="22" name="TMDS_D2-" type="output"/>
+        <pin num="23" name="TMDS_D2+" type="output"/>
+        <pin num="24" name="DVDD33" type="input"/>
+        <pin num="25" name="XTI" type="input"/>
+        <pin num="26" name="XTO" type="input"/>
+        <pin num="27" name="GND" type="input"/>
+        <pin num="28" name="SCL" type="input"/>
+        <pin num="29" name="SDA" type="input"/>
+        <pin num="30" name="ALIN" type="input"/>
+        <pin num="31" name="REFQ0" type="input"/>
+        <pin num="32" name="REFQ1" type="input"/>
+        <pin num="33" name="ARIN" type="input"/>
+        <pin num="34" name="HSIN" type="input"/>
+        <pin num="35" name="VSIN" type="input"/>
+        <pin num="36" name="DVDD33" type="input"/>
+        <pin num="37" name="REFP" type="input"/>
+        <pin num="38" name="AVDD33" type="input"/>
+        <pin num="39" name="B/Pb" type="input"/>
+        <pin num="40" name="GND" type="input"/>
+        <pin num="41" name="AVDD18_ADC" type="input"/>
+        <pin num="42" name="SOG/Y" type="input"/>
+        <pin num="43" name="AVDD33" type="input"/>
+        <pin num="44" name="G/Y" type="input"/>
+        <pin num="45" name="GND" type="input"/>
+        <pin num="46" name="AVDD18_ADC" type="input"/>
+        <pin num="47" name="AVDD33" type="input"/>
+        <pin num="48" name="R/Pr" type="input"/>
+        <pin num="49" name="EP" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/app/extensions/Library/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/app/extensions/Library/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="1v8">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="AVDD18" pintype="input"/>
+      <node ref="U1" pin="21" pinfunction="AVDD18" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="AVDD18" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="2" name="3v3">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="DVDD33" pintype="input"/>
+      <node ref="U1" pin="24" pinfunction="DVDD33" pintype="input"/>
+      <node ref="U1" pin="36" pinfunction="DVDD33" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="DVDD33" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="3" name="5V">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="EN" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="4" name="5VHDMI">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="???">
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="??" pintype="input"/>
+    </net>
+    <net code="6" name="A1v8">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="AVDD18_ADC" pintype="input"/>
+      <node ref="U1" pin="41" pinfunction="AVDD18_ADC" pintype="input"/>
+      <node ref="U1" pin="46" pinfunction="AVDD18_ADC" pintype="input"/>
+    </net>
+    <net code="7" name="A3v3">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="AVDD33" pintype="input"/>
+      <node ref="U1" pin="38" pinfunction="AVDD33" pintype="input"/>
+      <node ref="U1" pin="43" pinfunction="AVDD33" pintype="input"/>
+      <node ref="U1" pin="47" pinfunction="AVDD33" pintype="input"/>
+    </net>
+    <net code="8" name="AUDIO_L">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="ALIN" pintype="input"/>
+    </net>
+    <net code="9" name="AUDIO_R">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="ARIN" pintype="input"/>
+    </net>
+    <net code="10" name="DDCSCL">
+      <node ref="J1" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="DCCSCL" pintype="input"/>
+    </net>
+    <net code="11" name="DDCSDA">
+      <node ref="J1" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="DDCSDA" pintype="input"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="27" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="40" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="49" pinfunction="EP" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="Thermal_Pad" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="Thermal_Pad" pintype="power_in"/>
+    </net>
+    <net code="13" name="HPDT">
+      <node ref="J1" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="HotPlugDetect" pintype="input"/>
+    </net>
+    <net code="14" name="MCUSEL">
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="MCUSEL" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(JP1-A)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(JP1-B)">
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(JP2-A)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(JP2-B)">
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(U1-B{slash}Pb)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="B/Pb" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U1-G{slash}Y)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="G/Y" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U1-HSIN)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="HSIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U1-REFP)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="REFP" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U1-REFQ0)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="REFQ0" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U1-REFQ1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="REFQ1" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(U1-R{slash}Pr)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="48" pinfunction="R/Pr" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(U1-SOG{slash}Y)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="SOG/Y" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(U1-SWREF1k)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SWREF1k" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U1-VSIN)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="VSIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U1-XTI)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="XTI" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(U1-XTO)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="XTO" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="SCL">
+      <node ref="U1" pin="28" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="36" name="SDA">
+      <node ref="U1" pin="29" pinfunction="SDA" pintype="input"/>
+    </net>
+    <net code="37" name="TMDS_CLK+">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="TMDS_CLK+" pintype="output"/>
+    </net>
+    <net code="38" name="TMDS_CLK-">
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="TMDS_CLK-" pintype="output"/>
+    </net>
+    <net code="39" name="TMDS_D0+">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="TMDS-D0+" pintype="output"/>
+    </net>
+    <net code="40" name="TMDS_D0-">
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="TMDS_D0-" pintype="output"/>
+    </net>
+    <net code="41" name="TMDS_D1+">
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="TMDS_D1+" pintype="output"/>
+    </net>
+    <net code="42" name="TMDS_D1-">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="TMDS_D1-" pintype="output"/>
+    </net>
+    <net code="43" name="TMDS_D2+">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="TMDS_D2+" pintype="output"/>
+    </net>
+    <net code="44" name="TMDS_D2-">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="TMDS_D2-" pintype="output"/>
+    </net>
+    <net code="45" name="VGA_B">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="VGA_G">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="VGA_H">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="VGA_R">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="VGA_V">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(J1-Pad13)">
+      <node ref="J1" pin="13" pinfunction="13" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J1-Pad14)">
+      <node ref="J1" pin="14" pinfunction="14" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U2-NC-Pad2)">
+      <node ref="U2" pin="2" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U2-NC-Pad3)">
+      <node ref="U2" pin="3" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U2-NC-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U2-NC-Pad6)">
+      <node ref="U2" pin="6" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U3-NC-Pad2)">
+      <node ref="U3" pin="2" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U3-NC-Pad3)">
+      <node ref="U3" pin="3" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U3-NC-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U3-NC-Pad6)">
+      <node ref="U3" pin="6" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
