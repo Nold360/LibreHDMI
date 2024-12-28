@@ -6,11 +6,11 @@ The MS9288A is a low-cost, low-power, high performance device, which consists of
 
 ### Front
 
-<img src="https://github.com/nold360/librehdmi/blob/main/assets/front.jpg" width=500> <img src="https://github.com/nold360/librehdmi/blob/main/assets/front.jpg" width=500>
+![front](https://github.com/nold360/librehdmi/blob/main/assets/front.jpg)
 
 ### Back
 
-<img src="https://github.com/nold360/librehdmi/blob/main/assets/back.jpg" width=500> <img src="https://github.com/nold360/librehdmi/blob/main/assets/back.jpg" width=500>
+![back](https://github.com/nold360/librehdmi/blob/main/assets/back.jpg)
 
 ## Key Features
 - Support Sync-on-Green(SOG)
